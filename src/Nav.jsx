@@ -19,7 +19,7 @@ function Nav() {
                 <div class="hidden lg:flex lg:items-center lg:space-x-10">
                 <img className='w-12 h-12' src="https://cdn-icons-png.freepik.com/256/5968/5968253.png?ga=GA1.1.1962600705.1715278960&semt=ais_hybrid" alt=""  />
                   <p className='text-white font-bold text-2xl'>
-                  <span className='text-orange-500'>El</span>ectronic <span className='text-orange-500'>Shop</span>
+                  <span className='text-orange-500'>Bader El</span>ectronic <span className='text-orange-500'>Shop</span>
                   </p>
                   <ul class="flex flex-col items-start space-y-2 md:ml-auto md:flex-row md:space-y-0 ">
     <li className="mr-6 ">
